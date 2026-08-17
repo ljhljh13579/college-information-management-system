@@ -1,0 +1,7 @@
+# 数据库连接配置模板
+# 使用方法：复制本文件为 dbinfo.properties，并填入你自己的数据库信息。
+# 注意：dbinfo.properties 已被 .gitignore 忽略，请勿提交到仓库。
+driver=com.mysql.jdbc.Driver
+url=jdbc\:mysql\://localhost\:3306/schools?useUnicode\=true&characterEncoding\=UTF-8
+username=root
+password=
